@@ -18,7 +18,7 @@ import sys
 import threading
 
 from math                       import pi
-from hw5code.TransformHelpers   import *
+from JIB.TransformHelpers   import *
 
 from PyQt5.QtCore               import (Qt, QTimer)
 from PyQt5.QtWidgets            import (QApplication, QFrame, QLineEdit,
