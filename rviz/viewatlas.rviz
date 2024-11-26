@@ -51,7 +51,7 @@ Visualization Manager:
     - Alpha: 1
       Class: rviz_default_plugins/RobotModel
       Collision Enabled: false
-      Description File: /home/lorenzo/lorenzo_ws/src/jib/urdf/atlas.urdf
+      Description File: /home/lorenzo/lorenzo_ws/src/JIB/urdf/atlas.urdf
       Description Source: Topic
       Description Topic:
         Depth: 5

@@ -30,7 +30,7 @@ def generate_launch_description():
     # LOCATE FILES
 
     # Locate the RVIZ configuration file.
-    rvizcfg = os.path.join(pkgdir('hw3code'), 'rviz/viewurdf.rviz')
+    rvizcfg = os.path.join(pkgdir('JIB'), 'rviz/viewurdf.rviz')
 
     # Locate the URDF file.
     urdf = os.path.join(pkgdir('atlas_description'), 'urdf/atlas_v5.urdf')
